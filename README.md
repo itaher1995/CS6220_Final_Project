@@ -2,29 +2,29 @@
 
 Paper Deliverable
 
-1. Abstract
+**1. Abstract**
 
-2. Introduction
+**2. Introduction**
 
-3. Related Work
+**3. Related Work**
 
 * Expand this
 
 4. Methodology
 
-* Data Collection
+* **Data Collection**
 
-* Data Preprocessing
+* **Data Preprocessing**
 
-* Dimensionality Reduction Techniques
+* **Dimensionality Reduction Techniques**
 
-* Baseline Models
+* **Baseline Models**
 
 * Other Models
 
 5 .Discussion
 
-* Discuss Baseline
+* **Discuss Baseline**
 
 * Discuss Other
 
