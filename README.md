@@ -1,7 +1,7 @@
 # File Directory
 
 ## Jupyter Notebooks
-* FMA-DataWarngling (original FMA-Dataset) -- The file containing all data wrangling and preprocessing.
+* FMA-DataWranngling (original FMA-Dataset) -- The file containing all data wrangling and preprocessing. Also note to remove any cells that didn't make it into the final presentation/paper (i.e. confusion matrices for kmeans)
 * FMA-SVMKMeans (originally FMA-Taher) -- A file that contains the work for Support Vector Machines such as the hyperparameter tuning. Also contains further data wrangling for SVM such as SMOTE and Tomeklinks and for KMeans it contains PCA.
 * FMA-Unsupervised-GMM -- A file that contains the work done for Gaussian Mixture Models and extra data wrangling such as PCA
 * FMA-Insights -- A file that contains the linear SVM model developed using our original design matrix without any SMOTE or Tomeklinks and the new labels from clustering
